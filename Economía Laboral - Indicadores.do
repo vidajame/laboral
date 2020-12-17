@@ -3,7 +3,7 @@
 
 clear all
 set mem 800m
-cd "C:\Users\VICTO\Documents\Observatorio de Género de Nariño\Compendio GEIH\GEIH\GEIH 2018\"
+cd "C:\Users\VICTO\Documents\
 use "Geih_completo_2018.dta"
 
 * 1=Hombres
